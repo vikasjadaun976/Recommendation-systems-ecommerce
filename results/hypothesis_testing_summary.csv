@@ -1,0 +1,5 @@
+Hypothesis,Statement,Test,Statistic,P_Value,Result
+H1,Frequent+VIP account for disproportionate purchase share,Chi-square goodness-of-fit,Chi2=30006.04,0.00e+00,Supported
+H2,CF achieves lower RMSE than CB,RMSE comparison,CF=1.5748 vs CB=1.7107,N/A,Supported
+H3,"Hybrid outperforms CF and CB on P@10, R@10, Coverage",Metric comparison,Hybrid Cov=85.3% > CB Cov=46.8%,N/A,Partially Supported
+H4,All personalized > Popularity on P@10 and R@10,Metric comparison,CF Cov=89.0% >> Pop Cov=2.2%,N/A,Partially Supported

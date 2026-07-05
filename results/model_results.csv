@@ -1,0 +1,5 @@
+Model,RMSE,Precision@10,Recall@10,F1@10,Coverage
+Popularity Baseline,1.6557,0.0085,0.0415,0.0123,2.2
+Collaborative Filtering,1.5748,0.009,0.0305,0.0122,89.01
+Content-Based Filtering,1.7107,0.0075,0.0166,0.0093,46.81
+Hybrid Model,1.5748,0.0085,0.0233,0.0109,84.84

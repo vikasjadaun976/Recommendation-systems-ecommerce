@@ -1,0 +1,21 @@
+Metric,Value
+Total Customers,1000
+Total Products,455
+Total Interactions,49058
+Explicit Ratings,22174
+Matrix Sparsity,94.9%
+Training Set Size,17739
+Test Set Size,4434
+Global Mean Rating,3.2379
+SVD Explained Variance,40.1%
+Best Hybrid Alpha,1.0
+VIP+Frequent Customer Share,35.7%
+VIP+Frequent Purchase Share,80.5%
+H1 Chi-Square Statistic,30006.04
+H1 P-Value,0.00e+00
+Average Price (INR),1637.8
+Average Rating,3.24
+Mean Age,41.6
+Age Std Dev,13.4
+Male Customers,534
+Female Customers,466

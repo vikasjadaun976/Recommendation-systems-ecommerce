@@ -1,0 +1,5 @@
+Segment,Customer_Count,Customer_Percentage,Purchase_Count,Purchase_Percentage,Purchase_to_Customer_Ratio
+New,339,33.9,769,3.47,0.1
+Occasional,304,30.4,3555,16.03,0.53
+Frequent,269,26.9,9620,43.38,1.61
+VIP,88,8.8,8230,37.12,4.22

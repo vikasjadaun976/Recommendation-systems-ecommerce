@@ -1,0 +1,17 @@
+Segment,Model,Precision@10,Recall@10,F1@10,Coverage (%)
+New,Popularity Baseline,0.0083,0.0833,0.0152,2.2
+New,Collaborative Filtering,0.0083,0.0833,0.0152,15.38
+New,Content-Based Filtering,0.0083,0.0833,0.0152,14.29
+New,Hybrid Model,0.0083,0.0833,0.0152,14.29
+Occasional,Popularity Baseline,0.0114,0.1143,0.0208,2.2
+Occasional,Collaborative Filtering,0.0029,0.0286,0.0052,47.69
+Occasional,Content-Based Filtering,0.0,0.0,0.0,23.52
+Occasional,Hybrid Model,0.0029,0.0143,0.0048,31.87
+Frequent,Popularity Baseline,0.0025,0.0031,0.0028,2.2
+Frequent,Collaborative Filtering,0.0125,0.0521,0.0189,53.41
+Frequent,Content-Based Filtering,0.015,0.0323,0.02,28.57
+Frequent,Hybrid Model,0.015,0.0458,0.0199,46.81
+VIP,Popularity Baseline,0.0308,0.036,0.033,2.2
+VIP,Collaborative Filtering,0.0231,0.0231,0.0231,25.49
+VIP,Content-Based Filtering,0.0231,0.0264,0.0244,19.12
+VIP,Hybrid Model,0.0231,0.025,0.0239,25.05

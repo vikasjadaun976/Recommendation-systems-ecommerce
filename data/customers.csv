@@ -1,0 +1,1001 @@
+customer_id,customer_type,join_date,age,gender,location,n_interactions
+C0001,New,2024-03-08,29,Male,Mumbai,1
+C0002,Occasional,2023-01-22,35,Female,Other,35
+C0003,Frequent,2022-08-15,29,Male,Bangalore,91
+C0004,Frequent,2022-03-20,28,Female,Mumbai,71
+C0005,New,2024-01-29,34,Male,Delhi NCR,4
+C0006,New,2024-04-28,49,Male,Hyderabad,4
+C0007,New,2024-01-27,34,Female,Other,3
+C0008,Occasional,2023-01-21,33,Female,Chennai,24
+C0009,Occasional,2023-09-14,55,Male,Kolkata,35
+C0010,New,2024-01-25,29,Female,Chennai,8
+C0011,Occasional,2023-03-13,63,Male,Kolkata,37
+C0012,Frequent,2022-01-27,24,Female,Other,85
+C0013,New,2024-01-24,37,Female,Delhi NCR,3
+C0014,New,2024-01-17,53,Female,Other,4
+C0015,Occasional,2023-11-15,19,Female,Bangalore,31
+C0016,VIP,2022-12-22,38,Male,Other,191
+C0017,Occasional,2023-04-05,49,Female,Delhi NCR,15
+C0018,Frequent,2022-04-12,25,Female,Bangalore,80
+C0019,New,2024-05-24,63,Male,Other,9
+C0020,Occasional,2023-04-02,50,Female,Other,29
+C0021,VIP,2021-01-02,58,Male,Delhi NCR,152
+C0022,Frequent,2022-04-13,55,Female,Hyderabad,105
+C0023,Frequent,2022-05-23,57,Female,Bangalore,83
+C0024,Frequent,2022-01-09,26,Male,Other,45
+C0025,New,2024-01-08,45,Female,Hyderabad,8
+C0026,Occasional,2023-01-07,37,Female,Hyderabad,20
+C0027,Frequent,2023-02-14,58,Male,Hyderabad,42
+C0028,New,2024-01-12,29,Male,Kolkata,7
+C0029,Occasional,2023-05-27,63,Male,Other,32
+C0030,Frequent,2022-11-05,49,Male,Mumbai,94
+C0031,New,2024-05-29,49,Male,Bangalore,5
+C0032,Frequent,2022-02-04,46,Male,Pune,100
+C0033,New,2024-03-16,47,Female,Mumbai,1
+C0034,Frequent,2023-02-08,21,Female,Hyderabad,76
+C0035,VIP,2021-06-01,49,Female,Mumbai,169
+C0036,Frequent,2023-05-27,32,Female,Hyderabad,105
+C0037,Frequent,2023-01-06,29,Male,Mumbai,97
+C0038,Occasional,2023-08-13,43,Female,Other,12
+C0039,Occasional,2023-10-25,31,Female,Pune,21
+C0040,Occasional,2023-02-10,64,Female,Pune,39
+C0041,Occasional,2023-05-10,23,Female,Delhi NCR,16
+C0042,VIP,2021-03-07,54,Male,Delhi NCR,282
+C0043,Frequent,2022-10-28,64,Male,Mumbai,62
+C0044,New,2024-01-14,18,Male,Other,9
+C0045,Occasional,2023-01-01,37,Male,Bangalore,34
+C0046,Frequent,2022-07-23,61,Male,Pune,76
+C0047,Frequent,2022-09-08,37,Male,Mumbai,100
+C0048,New,2024-02-06,43,Male,Pune,4
+C0049,New,2024-02-28,50,Male,Hyderabad,5
+C0050,Frequent,2022-10-03,41,Female,Hyderabad,92
+C0051,VIP,2021-11-02,56,Male,Pune,148
+C0052,Occasional,2023-10-21,40,Male,Kolkata,29
+C0053,New,2024-06-26,25,Female,Delhi NCR,7
+C0054,Frequent,2022-12-18,64,Male,Mumbai,44
+C0055,Frequent,2022-04-29,27,Male,Mumbai,82
+C0056,Occasional,2023-05-16,57,Female,Bangalore,24
+C0057,VIP,2021-01-01,48,Female,Kolkata,266
+C0058,Frequent,2022-12-27,45,Male,Other,101
+C0059,New,2024-03-13,58,Female,Kolkata,1
+C0060,Frequent,2022-06-08,21,Female,Hyderabad,114
+C0061,New,2024-04-11,23,Female,Kolkata,3
+C0062,Frequent,2022-12-31,18,Male,Hyderabad,114
+C0063,Occasional,2023-08-01,18,Male,Pune,24
+C0064,Occasional,2023-11-12,42,Female,Other,38
+C0065,Occasional,2023-04-12,28,Female,Hyderabad,35
+C0066,Occasional,2023-09-22,38,Female,Other,12
+C0067,Frequent,2022-08-09,42,Male,Mumbai,65
+C0068,Occasional,2023-10-27,32,Male,Pune,13
+C0069,Frequent,2023-05-13,62,Female,Bangalore,82
+C0070,New,2024-02-16,32,Male,Bangalore,5
+C0071,Occasional,2023-11-20,30,Male,Mumbai,30
+C0072,New,2024-04-26,63,Male,Pune,4
+C0073,Occasional,2023-05-16,59,Female,Mumbai,25
+C0074,Occasional,2023-03-18,43,Male,Bangalore,13
+C0075,New,2024-04-17,30,Male,Pune,7
+C0076,New,2024-06-18,53,Male,Hyderabad,8
+C0077,Frequent,2023-01-20,62,Female,Bangalore,83
+C0078,New,2024-05-29,38,Female,Delhi NCR,6
+C0079,Frequent,2022-01-10,25,Female,Delhi NCR,81
+C0080,New,2024-02-06,41,Female,Chennai,4
+C0081,Frequent,2022-05-26,53,Male,Pune,58
+C0082,Occasional,2023-06-24,52,Female,Delhi NCR,26
+C0083,New,2024-05-29,32,Male,Pune,5
+C0084,Occasional,2023-05-18,31,Female,Delhi NCR,18
+C0085,Occasional,2023-09-15,24,Female,Bangalore,12
+C0086,Occasional,2023-05-05,58,Female,Pune,16
+C0087,New,2024-02-15,21,Female,Mumbai,3
+C0088,VIP,2022-09-13,57,Female,Chennai,155
+C0089,New,2024-05-15,23,Male,Chennai,1
+C0090,Occasional,2023-11-12,22,Male,Other,11
+C0091,Occasional,2023-08-18,20,Male,Kolkata,17
+C0092,Occasional,2023-12-08,19,Female,Mumbai,15
+C0093,Occasional,2023-10-18,40,Male,Other,11
+C0094,Occasional,2023-02-05,30,Female,Pune,14
+C0095,New,2024-04-15,33,Male,Other,9
+C0096,Frequent,2023-05-30,47,Male,Chennai,55
+C0097,VIP,2022-09-22,37,Female,Chennai,124
+C0098,New,2024-01-30,37,Female,Mumbai,5
+C0099,Frequent,2022-06-10,29,Female,Mumbai,55
+C0100,New,2024-02-05,40,Male,Mumbai,1
+C0101,Occasional,2023-09-15,26,Male,Bangalore,36
+C0102,Occasional,2023-06-03,35,Male,Bangalore,13
+C0103,Frequent,2022-05-23,54,Male,Chennai,99
+C0104,VIP,2021-02-11,35,Female,Hyderabad,285
+C0105,Frequent,2023-04-07,20,Female,Chennai,45
+C0106,Frequent,2023-02-03,52,Male,Mumbai,60
+C0107,New,2024-01-20,27,Female,Delhi NCR,2
+C0108,Occasional,2023-10-16,48,Male,Hyderabad,13
+C0109,Frequent,2022-08-26,20,Female,Hyderabad,91
+C0110,New,2024-04-26,25,Male,Chennai,2
+C0111,New,2024-03-08,35,Male,Pune,4
+C0112,Occasional,2023-12-15,19,Female,Bangalore,20
+C0113,Occasional,2023-01-05,51,Male,Mumbai,28
+C0114,Occasional,2023-06-27,48,Female,Delhi NCR,38
+C0115,Occasional,2023-04-09,26,Female,Hyderabad,30
+C0116,New,2024-03-20,21,Female,Other,1
+C0117,Frequent,2022-12-25,46,Female,Chennai,91
+C0118,Frequent,2022-03-04,52,Male,Chennai,102
+C0119,Occasional,2023-08-17,39,Female,Pune,38
+C0120,Occasional,2023-08-07,55,Male,Mumbai,30
+C0121,Frequent,2023-02-27,18,Male,Mumbai,44
+C0122,New,2024-03-22,62,Male,Delhi NCR,5
+C0123,New,2024-05-18,43,Male,Mumbai,5
+C0124,New,2024-03-22,52,Male,Chennai,8
+C0125,Frequent,2022-01-21,30,Male,Other,81
+C0126,Frequent,2023-01-28,18,Female,Other,80
+C0127,New,2024-01-10,57,Male,Bangalore,2
+C0128,Occasional,2023-09-21,39,Female,Pune,36
+C0129,Frequent,2022-06-22,49,Female,Pune,108
+C0130,Frequent,2022-07-19,18,Male,Other,82
+C0131,New,2024-01-17,37,Female,Mumbai,5
+C0132,Occasional,2023-08-16,32,Female,Bangalore,20
+C0133,New,2024-01-05,47,Female,Other,5
+C0134,New,2024-02-07,48,Female,Other,1
+C0135,Occasional,2023-02-18,21,Female,Delhi NCR,13
+C0136,VIP,2021-04-29,27,Female,Chennai,233
+C0137,Occasional,2023-09-15,30,Female,Pune,31
+C0138,Occasional,2023-10-15,51,Male,Pune,37
+C0139,New,2024-05-25,26,Male,Bangalore,7
+C0140,Occasional,2023-04-24,47,Female,Chennai,31
+C0141,New,2024-06-22,38,Male,Other,1
+C0142,New,2024-02-08,29,Female,Mumbai,1
+C0143,Occasional,2023-05-29,25,Female,Hyderabad,39
+C0144,Frequent,2022-08-24,39,Female,Delhi NCR,114
+C0145,VIP,2022-04-11,46,Female,Chennai,121
+C0146,Frequent,2023-04-08,41,Male,Hyderabad,62
+C0147,Occasional,2023-07-08,20,Male,Bangalore,10
+C0148,New,2024-01-30,61,Female,Other,7
+C0149,Occasional,2023-05-16,33,Female,Chennai,19
+C0150,Frequent,2023-03-25,57,Male,Other,43
+C0151,Frequent,2023-05-06,38,Female,Pune,49
+C0152,Occasional,2023-03-07,30,Male,Chennai,18
+C0153,New,2024-03-30,29,Female,Hyderabad,6
+C0154,Frequent,2023-03-13,28,Female,Pune,59
+C0155,New,2024-02-25,54,Male,Pune,3
+C0156,Occasional,2023-01-20,41,Male,Mumbai,19
+C0157,Occasional,2023-11-06,56,Male,Hyderabad,17
+C0158,New,2024-02-26,34,Female,Chennai,4
+C0159,Occasional,2023-01-03,54,Female,Pune,33
+C0160,Frequent,2023-06-20,47,Female,Pune,73
+C0161,New,2024-05-26,63,Male,Other,1
+C0162,New,2024-01-30,48,Female,Bangalore,6
+C0163,Occasional,2023-08-16,50,Male,Chennai,39
+C0164,New,2024-02-16,62,Male,Hyderabad,9
+C0165,Occasional,2023-08-28,44,Female,Pune,24
+C0166,Frequent,2022-03-16,43,Female,Delhi NCR,48
+C0167,Occasional,2023-05-18,20,Male,Delhi NCR,27
+C0168,Occasional,2023-04-28,23,Male,Kolkata,22
+C0169,Frequent,2023-03-02,63,Male,Kolkata,74
+C0170,Frequent,2022-02-18,27,Female,Chennai,60
+C0171,New,2024-01-04,56,Male,Delhi NCR,7
+C0172,Frequent,2022-07-01,61,Male,Pune,85
+C0173,VIP,2022-07-02,41,Male,Hyderabad,277
+C0174,New,2024-05-14,45,Female,Mumbai,3
+C0175,New,2024-04-15,30,Male,Delhi NCR,9
+C0176,Occasional,2023-07-03,37,Female,Bangalore,20
+C0177,New,2024-06-26,44,Male,Pune,1
+C0178,New,2024-06-08,28,Female,Pune,8
+C0179,Frequent,2023-03-02,61,Female,Hyderabad,65
+C0180,Frequent,2022-11-10,35,Male,Pune,60
+C0181,New,2024-02-18,42,Female,Chennai,3
+C0182,New,2024-06-17,21,Male,Delhi NCR,1
+C0183,Frequent,2022-10-16,51,Male,Bangalore,63
+C0184,New,2024-03-26,34,Female,Hyderabad,1
+C0185,Occasional,2023-03-06,38,Male,Hyderabad,19
+C0186,Frequent,2022-03-07,51,Female,Bangalore,113
+C0187,Frequent,2022-03-27,41,Female,Hyderabad,115
+C0188,Frequent,2022-08-31,49,Male,Chennai,102
+C0189,Occasional,2023-03-09,39,Male,Other,23
+C0190,Frequent,2023-01-16,45,Female,Pune,79
+C0191,Occasional,2023-09-05,20,Female,Delhi NCR,39
+C0192,Occasional,2023-08-15,56,Female,Delhi NCR,15
+C0193,Occasional,2023-07-16,28,Male,Mumbai,28
+C0194,New,2024-02-10,54,Female,Pune,4
+C0195,Occasional,2023-08-26,35,Male,Chennai,17
+C0196,Occasional,2023-09-20,20,Male,Bangalore,25
+C0197,New,2024-02-09,50,Female,Pune,6
+C0198,New,2024-04-10,21,Female,Hyderabad,5
+C0199,New,2024-02-01,29,Female,Pune,9
+C0200,VIP,2022-07-29,38,Female,Mumbai,228
+C0201,New,2024-04-11,44,Female,Bangalore,7
+C0202,Occasional,2023-10-08,51,Male,Hyderabad,29
+C0203,Frequent,2023-04-21,55,Male,Bangalore,48
+C0204,Frequent,2023-01-12,19,Female,Chennai,50
+C0205,New,2024-05-10,45,Female,Hyderabad,5
+C0206,Frequent,2023-06-30,64,Male,Bangalore,80
+C0207,Frequent,2022-06-25,34,Female,Bangalore,61
+C0208,Frequent,2022-10-16,51,Male,Other,55
+C0209,New,2024-02-16,23,Female,Chennai,7
+C0210,VIP,2022-10-02,21,Female,Pune,186
+C0211,New,2024-01-21,63,Female,Chennai,3
+C0212,Frequent,2023-01-28,32,Male,Delhi NCR,116
+C0213,Frequent,2022-08-07,44,Male,Hyderabad,62
+C0214,Occasional,2023-04-10,25,Male,Bangalore,30
+C0215,VIP,2022-05-22,42,Male,Hyderabad,203
+C0216,VIP,2022-12-28,36,Female,Bangalore,269
+C0217,Frequent,2022-10-11,24,Female,Delhi NCR,84
+C0218,New,2024-04-28,36,Female,Hyderabad,9
+C0219,New,2024-03-01,57,Male,Delhi NCR,4
+C0220,New,2024-04-29,42,Female,Kolkata,4
+C0221,New,2024-03-18,21,Male,Chennai,9
+C0222,Frequent,2022-05-07,33,Male,Delhi NCR,94
+C0223,New,2024-01-12,28,Female,Mumbai,3
+C0224,Occasional,2023-05-29,37,Male,Chennai,14
+C0225,New,2024-05-16,52,Female,Other,4
+C0226,VIP,2021-01-08,40,Male,Chennai,164
+C0227,VIP,2021-06-23,32,Female,Mumbai,166
+C0228,New,2024-05-29,38,Female,Chennai,8
+C0229,Frequent,2022-06-28,24,Male,Chennai,43
+C0230,Occasional,2023-03-08,61,Female,Mumbai,31
+C0231,Occasional,2023-12-27,25,Female,Hyderabad,10
+C0232,Frequent,2022-09-19,25,Male,Mumbai,66
+C0233,VIP,2021-04-03,52,Male,Bangalore,228
+C0234,Occasional,2023-12-06,30,Male,Delhi NCR,33
+C0235,New,2024-05-15,50,Male,Kolkata,4
+C0236,Occasional,2023-07-11,59,Male,Hyderabad,39
+C0237,New,2024-03-28,58,Female,Kolkata,5
+C0238,New,2024-06-15,58,Male,Other,7
+C0239,Frequent,2022-11-29,62,Male,Chennai,85
+C0240,Frequent,2023-04-01,62,Female,Other,100
+C0241,New,2024-03-30,45,Female,Other,7
+C0242,Frequent,2022-06-23,62,Female,Delhi NCR,69
+C0243,Occasional,2023-12-04,19,Female,Delhi NCR,27
+C0244,Occasional,2023-03-23,36,Female,Other,14
+C0245,Frequent,2022-11-28,58,Female,Pune,54
+C0246,Occasional,2023-07-21,28,Female,Hyderabad,11
+C0247,Occasional,2023-04-28,56,Female,Chennai,18
+C0248,Occasional,2023-04-27,46,Male,Other,11
+C0249,VIP,2021-09-15,58,Male,Bangalore,200
+C0250,Occasional,2023-11-07,32,Male,Kolkata,22
+C0251,Frequent,2022-05-07,40,Female,Hyderabad,64
+C0252,Frequent,2023-03-14,53,Female,Pune,57
+C0253,Occasional,2023-05-02,61,Female,Bangalore,39
+C0254,Occasional,2023-06-21,58,Male,Other,24
+C0255,Frequent,2022-04-28,41,Male,Other,72
+C0256,New,2024-01-07,54,Female,Delhi NCR,4
+C0257,VIP,2022-10-31,45,Male,Pune,265
+C0258,New,2024-05-05,55,Female,Other,1
+C0259,Occasional,2023-04-26,29,Female,Pune,33
+C0260,Frequent,2023-03-10,47,Male,Bangalore,108
+C0261,Occasional,2023-02-14,43,Male,Hyderabad,13
+C0262,VIP,2021-08-22,23,Female,Pune,170
+C0263,Occasional,2023-05-02,54,Female,Kolkata,38
+C0264,Occasional,2023-05-14,35,Female,Delhi NCR,13
+C0265,New,2024-02-28,34,Male,Other,4
+C0266,Frequent,2022-03-10,58,Female,Mumbai,76
+C0267,New,2024-02-22,20,Male,Other,7
+C0268,Frequent,2023-05-12,61,Male,Bangalore,85
+C0269,Occasional,2023-04-02,52,Male,Mumbai,33
+C0270,Occasional,2023-09-30,35,Female,Delhi NCR,12
+C0271,Frequent,2022-06-14,45,Female,Kolkata,47
+C0272,Occasional,2023-05-27,51,Female,Kolkata,36
+C0273,Occasional,2023-09-03,28,Male,Kolkata,30
+C0274,Frequent,2022-01-20,63,Male,Hyderabad,80
+C0275,New,2024-05-26,49,Male,Pune,4
+C0276,Occasional,2023-04-12,50,Female,Pune,20
+C0277,Occasional,2023-07-22,34,Female,Hyderabad,34
+C0278,Occasional,2023-04-02,64,Female,Chennai,28
+C0279,Frequent,2022-06-12,26,Male,Kolkata,87
+C0280,Occasional,2023-08-13,36,Male,Bangalore,17
+C0281,Occasional,2023-01-13,63,Male,Pune,24
+C0282,New,2024-01-22,60,Female,Mumbai,6
+C0283,New,2024-05-05,33,Female,Delhi NCR,5
+C0284,New,2024-01-30,47,Male,Bangalore,9
+C0285,New,2024-01-26,57,Male,Pune,1
+C0286,New,2024-02-05,54,Female,Kolkata,9
+C0287,New,2024-05-15,26,Female,Chennai,5
+C0288,Frequent,2022-04-14,26,Female,Hyderabad,62
+C0289,Occasional,2023-12-24,52,Male,Hyderabad,20
+C0290,Frequent,2022-10-17,36,Male,Other,84
+C0291,Frequent,2023-01-10,59,Male,Hyderabad,73
+C0292,New,2024-01-13,64,Male,Mumbai,8
+C0293,New,2024-05-15,31,Male,Pune,7
+C0294,VIP,2021-08-19,56,Male,Delhi NCR,172
+C0295,New,2024-01-13,36,Male,Delhi NCR,5
+C0296,Frequent,2022-01-31,40,Female,Mumbai,94
+C0297,Occasional,2023-02-23,37,Female,Hyderabad,29
+C0298,Occasional,2023-02-22,32,Female,Pune,33
+C0299,New,2024-02-28,25,Male,Pune,7
+C0300,New,2024-02-03,51,Female,Delhi NCR,2
+C0301,Frequent,2023-03-17,35,Male,Hyderabad,65
+C0302,Frequent,2022-03-29,25,Male,Kolkata,89
+C0303,VIP,2021-06-06,28,Female,Bangalore,275
+C0304,New,2024-06-03,61,Female,Mumbai,2
+C0305,Frequent,2022-05-21,23,Male,Chennai,88
+C0306,Frequent,2023-02-05,40,Male,Delhi NCR,97
+C0307,VIP,2022-12-30,27,Male,Kolkata,239
+C0308,Frequent,2022-01-13,41,Female,Delhi NCR,72
+C0309,Frequent,2023-06-17,54,Male,Kolkata,51
+C0310,Occasional,2023-12-25,58,Male,Other,37
+C0311,New,2024-04-14,58,Male,Kolkata,7
+C0312,Frequent,2022-01-31,33,Male,Hyderabad,41
+C0313,Occasional,2023-04-10,40,Female,Mumbai,22
+C0314,Occasional,2023-09-21,53,Female,Chennai,16
+C0315,VIP,2021-05-29,57,Male,Delhi NCR,147
+C0316,Frequent,2022-09-09,27,Male,Pune,52
+C0317,Frequent,2023-06-09,55,Male,Hyderabad,76
+C0318,Frequent,2023-02-02,52,Male,Pune,49
+C0319,New,2024-01-12,41,Female,Delhi NCR,6
+C0320,VIP,2021-07-07,55,Female,Pune,209
+C0321,Frequent,2023-04-10,29,Male,Kolkata,97
+C0322,New,2024-06-23,51,Male,Pune,9
+C0323,New,2024-06-01,24,Male,Hyderabad,1
+C0324,Occasional,2023-07-27,53,Male,Chennai,20
+C0325,Frequent,2023-04-02,28,Female,Pune,71
+C0326,Frequent,2023-04-01,39,Male,Other,84
+C0327,New,2024-06-05,51,Male,Pune,2
+C0328,New,2024-06-20,43,Female,Pune,4
+C0329,Frequent,2023-03-10,32,Female,Hyderabad,114
+C0330,Occasional,2023-02-28,61,Female,Delhi NCR,35
+C0331,Occasional,2023-10-28,28,Female,Other,28
+C0332,Occasional,2023-12-17,28,Male,Delhi NCR,37
+C0333,VIP,2021-04-12,64,Male,Hyderabad,176
+C0334,New,2024-04-23,37,Female,Bangalore,5
+C0335,New,2024-06-09,55,Male,Pune,2
+C0336,Occasional,2023-05-02,63,Male,Hyderabad,30
+C0337,VIP,2022-03-22,27,Male,Pune,197
+C0338,New,2024-01-06,61,Female,Chennai,8
+C0339,Frequent,2022-11-27,28,Male,Chennai,116
+C0340,VIP,2021-09-29,52,Male,Other,187
+C0341,Frequent,2022-03-31,29,Male,Delhi NCR,101
+C0342,VIP,2021-11-07,35,Female,Chennai,221
+C0343,Frequent,2022-05-05,60,Male,Other,56
+C0344,VIP,2021-09-04,30,Female,Hyderabad,127
+C0345,Frequent,2023-05-10,60,Female,Bangalore,104
+C0346,VIP,2021-04-03,61,Male,Mumbai,205
+C0347,Frequent,2023-05-27,59,Female,Kolkata,67
+C0348,New,2024-04-13,25,Female,Hyderabad,2
+C0349,Occasional,2023-12-15,61,Female,Mumbai,12
+C0350,VIP,2022-03-14,51,Female,Other,274
+C0351,Occasional,2023-11-23,20,Male,Kolkata,26
+C0352,New,2024-04-08,56,Female,Hyderabad,1
+C0353,Occasional,2023-06-22,46,Female,Bangalore,29
+C0354,Occasional,2023-04-24,43,Female,Chennai,10
+C0355,New,2024-02-28,58,Male,Delhi NCR,9
+C0356,New,2024-04-07,62,Male,Chennai,8
+C0357,Occasional,2023-05-19,38,Male,Mumbai,33
+C0358,Frequent,2022-04-19,24,Female,Pune,99
+C0359,Frequent,2023-02-09,21,Female,Chennai,117
+C0360,Occasional,2023-04-26,46,Male,Other,22
+C0361,New,2024-04-12,44,Male,Pune,9
+C0362,Frequent,2023-01-02,44,Female,Kolkata,63
+C0363,Frequent,2023-06-20,59,Female,Mumbai,63
+C0364,Frequent,2023-04-16,40,Female,Pune,92
+C0365,New,2024-03-02,23,Male,Mumbai,9
+C0366,New,2024-04-12,38,Male,Bangalore,6
+C0367,Frequent,2022-12-08,21,Female,Hyderabad,86
+C0368,Frequent,2023-02-24,22,Female,Mumbai,80
+C0369,New,2024-04-10,44,Male,Delhi NCR,9
+C0370,Occasional,2023-02-16,53,Female,Other,31
+C0371,Frequent,2022-11-06,25,Female,Bangalore,60
+C0372,Occasional,2023-07-21,51,Female,Delhi NCR,36
+C0373,New,2024-01-10,34,Female,Chennai,6
+C0374,Occasional,2023-05-03,54,Male,Delhi NCR,30
+C0375,Frequent,2022-03-22,57,Male,Pune,105
+C0376,Occasional,2023-01-01,40,Male,Kolkata,24
+C0377,Frequent,2023-02-22,46,Male,Hyderabad,80
+C0378,New,2024-02-21,20,Male,Delhi NCR,5
+C0379,Frequent,2022-06-24,18,Male,Mumbai,94
+C0380,New,2024-02-01,35,Male,Bangalore,4
+C0381,Frequent,2023-05-03,50,Female,Kolkata,117
+C0382,New,2024-02-28,23,Male,Delhi NCR,3
+C0383,Occasional,2023-07-12,44,Male,Other,14
+C0384,New,2024-03-04,36,Male,Bangalore,3
+C0385,Frequent,2022-03-30,48,Male,Pune,59
+C0386,New,2024-01-22,54,Male,Hyderabad,3
+C0387,Occasional,2023-04-24,36,Female,Chennai,25
+C0388,Frequent,2022-05-04,28,Male,Chennai,51
+C0389,Occasional,2023-04-07,45,Male,Hyderabad,14
+C0390,New,2024-02-02,58,Female,Kolkata,2
+C0391,New,2024-02-16,21,Female,Chennai,7
+C0392,Frequent,2022-08-03,40,Male,Hyderabad,53
+C0393,Occasional,2023-01-29,35,Female,Delhi NCR,33
+C0394,VIP,2021-08-06,46,Female,Mumbai,181
+C0395,VIP,2021-11-21,58,Female,Mumbai,275
+C0396,Occasional,2023-08-07,29,Male,Bangalore,26
+C0397,New,2024-03-29,33,Female,Other,3
+C0398,Frequent,2022-01-22,60,Female,Bangalore,65
+C0399,New,2024-01-20,37,Female,Chennai,9
+C0400,New,2024-03-06,51,Female,Hyderabad,5
+C0401,New,2024-01-10,50,Female,Hyderabad,9
+C0402,New,2024-04-09,46,Male,Bangalore,2
+C0403,New,2024-01-10,32,Male,Bangalore,5
+C0404,Frequent,2022-09-05,53,Female,Delhi NCR,61
+C0405,New,2024-04-22,24,Male,Chennai,4
+C0406,VIP,2022-10-12,26,Female,Mumbai,283
+C0407,Frequent,2022-09-19,55,Male,Mumbai,87
+C0408,Frequent,2023-02-23,45,Female,Chennai,64
+C0409,Occasional,2023-03-14,43,Female,Chennai,36
+C0410,Occasional,2023-02-10,37,Male,Pune,19
+C0411,New,2024-05-30,64,Male,Delhi NCR,4
+C0412,New,2024-03-09,57,Male,Mumbai,2
+C0413,Frequent,2022-11-10,28,Female,Hyderabad,72
+C0414,VIP,2022-10-12,55,Male,Chennai,201
+C0415,VIP,2022-08-12,20,Female,Delhi NCR,293
+C0416,New,2024-03-31,63,Male,Delhi NCR,8
+C0417,New,2024-04-16,56,Male,Chennai,9
+C0418,VIP,2022-07-03,35,Female,Kolkata,256
+C0419,Occasional,2023-02-27,55,Male,Chennai,20
+C0420,Occasional,2023-04-17,32,Male,Mumbai,14
+C0421,Occasional,2023-05-19,30,Male,Other,35
+C0422,Occasional,2023-12-29,41,Female,Pune,31
+C0423,New,2024-01-03,18,Female,Kolkata,6
+C0424,New,2024-05-12,27,Female,Mumbai,1
+C0425,Frequent,2022-10-30,21,Male,Chennai,74
+C0426,VIP,2021-10-10,59,Male,Kolkata,175
+C0427,Frequent,2022-02-21,62,Male,Other,64
+C0428,Frequent,2023-01-24,63,Male,Mumbai,75
+C0429,New,2024-03-20,38,Female,Hyderabad,1
+C0430,Occasional,2023-02-04,39,Male,Kolkata,16
+C0431,Frequent,2023-04-10,40,Male,Hyderabad,115
+C0432,Occasional,2023-08-02,46,Male,Pune,18
+C0433,New,2024-02-15,64,Male,Kolkata,4
+C0434,New,2024-04-13,19,Male,Chennai,5
+C0435,Occasional,2023-05-30,50,Male,Hyderabad,31
+C0436,New,2024-06-18,31,Male,Pune,3
+C0437,New,2024-06-12,26,Male,Bangalore,2
+C0438,New,2024-02-16,36,Male,Hyderabad,6
+C0439,VIP,2022-08-07,26,Male,Hyderabad,226
+C0440,Frequent,2022-07-14,57,Female,Delhi NCR,113
+C0441,New,2024-04-07,30,Female,Mumbai,3
+C0442,New,2024-02-17,46,Male,Other,1
+C0443,Frequent,2022-03-12,22,Female,Bangalore,52
+C0444,New,2024-02-18,18,Male,Delhi NCR,7
+C0445,Frequent,2022-09-08,32,Female,Bangalore,42
+C0446,Frequent,2023-01-15,42,Female,Delhi NCR,55
+C0447,Occasional,2023-11-17,39,Female,Bangalore,38
+C0448,New,2024-04-27,24,Male,Bangalore,9
+C0449,Frequent,2023-03-05,20,Male,Hyderabad,54
+C0450,Occasional,2023-08-20,19,Male,Hyderabad,27
+C0451,Occasional,2023-08-27,57,Female,Chennai,34
+C0452,Occasional,2023-02-18,35,Male,Kolkata,22
+C0453,VIP,2022-06-16,59,Male,Bangalore,242
+C0454,New,2024-03-04,21,Male,Chennai,8
+C0455,New,2024-04-16,26,Male,Chennai,2
+C0456,New,2024-02-17,53,Female,Mumbai,9
+C0457,Occasional,2023-11-14,49,Male,Delhi NCR,16
+C0458,New,2024-02-13,45,Male,Chennai,7
+C0459,Occasional,2023-08-03,38,Female,Chennai,12
+C0460,Frequent,2023-04-15,59,Male,Kolkata,101
+C0461,Frequent,2022-02-23,25,Female,Delhi NCR,55
+C0462,New,2024-05-09,43,Female,Chennai,1
+C0463,Occasional,2023-10-06,49,Male,Hyderabad,27
+C0464,Frequent,2022-08-27,55,Female,Kolkata,106
+C0465,New,2024-06-21,63,Male,Chennai,5
+C0466,Frequent,2023-03-13,32,Female,Pune,118
+C0467,VIP,2021-12-06,37,Male,Chennai,220
+C0468,New,2024-06-13,23,Male,Other,6
+C0469,New,2024-01-05,63,Female,Hyderabad,8
+C0470,Occasional,2023-07-06,57,Female,Pune,33
+C0471,VIP,2021-08-18,19,Female,Delhi NCR,265
+C0472,Occasional,2023-09-13,44,Female,Bangalore,15
+C0473,VIP,2021-04-01,27,Male,Bangalore,180
+C0474,New,2024-05-22,52,Male,Bangalore,1
+C0475,Frequent,2023-05-23,52,Male,Pune,87
+C0476,Frequent,2022-04-24,49,Male,Pune,88
+C0477,Frequent,2022-08-23,52,Female,Kolkata,97
+C0478,Frequent,2022-05-18,21,Female,Pune,64
+C0479,Frequent,2023-03-26,60,Female,Other,113
+C0480,Occasional,2023-05-19,51,Male,Kolkata,23
+C0481,Occasional,2023-02-20,29,Male,Hyderabad,30
+C0482,Frequent,2023-04-13,42,Male,Other,77
+C0483,Occasional,2023-06-04,35,Male,Bangalore,32
+C0484,New,2024-05-12,58,Female,Delhi NCR,7
+C0485,Occasional,2023-12-05,24,Female,Pune,10
+C0486,New,2024-05-29,64,Male,Hyderabad,6
+C0487,New,2024-05-27,50,Female,Bangalore,2
+C0488,Occasional,2023-10-23,37,Female,Bangalore,31
+C0489,Occasional,2023-03-31,30,Male,Kolkata,39
+C0490,Frequent,2023-03-14,28,Female,Other,65
+C0491,Occasional,2023-05-28,46,Male,Hyderabad,17
+C0492,VIP,2021-12-06,33,Female,Bangalore,235
+C0493,New,2024-02-14,44,Female,Other,8
+C0494,Frequent,2022-03-14,37,Male,Delhi NCR,74
+C0495,Occasional,2023-04-29,25,Female,Kolkata,34
+C0496,New,2024-01-20,29,Female,Other,7
+C0497,Frequent,2023-05-09,51,Male,Chennai,50
+C0498,New,2024-01-20,55,Female,Other,2
+C0499,New,2024-03-24,54,Female,Other,3
+C0500,New,2024-02-25,57,Male,Other,7
+C0501,New,2024-04-03,27,Male,Delhi NCR,8
+C0502,Occasional,2023-01-13,54,Male,Chennai,13
+C0503,New,2024-06-14,40,Male,Pune,8
+C0504,New,2024-02-15,55,Female,Other,5
+C0505,New,2024-04-08,34,Male,Pune,7
+C0506,New,2024-02-26,59,Male,Mumbai,7
+C0507,Occasional,2023-03-30,35,Female,Other,25
+C0508,Frequent,2022-04-16,32,Male,Pune,54
+C0509,Occasional,2023-02-01,57,Male,Bangalore,18
+C0510,Occasional,2023-11-29,26,Male,Chennai,25
+C0511,Frequent,2023-03-20,52,Female,Other,110
+C0512,New,2024-03-29,30,Female,Delhi NCR,8
+C0513,New,2024-03-17,43,Female,Hyderabad,9
+C0514,New,2024-02-08,42,Female,Bangalore,8
+C0515,New,2024-06-14,45,Male,Bangalore,8
+C0516,New,2024-05-29,25,Female,Hyderabad,6
+C0517,New,2024-02-01,27,Male,Bangalore,3
+C0518,New,2024-02-28,42,Male,Pune,5
+C0519,New,2024-03-24,39,Female,Kolkata,7
+C0520,Frequent,2022-10-03,34,Male,Delhi NCR,116
+C0521,Occasional,2023-09-30,25,Female,Kolkata,33
+C0522,VIP,2021-11-24,43,Female,Kolkata,127
+C0523,Occasional,2023-06-05,33,Female,Hyderabad,34
+C0524,Occasional,2023-10-13,30,Female,Kolkata,16
+C0525,Frequent,2022-12-04,60,Male,Kolkata,52
+C0526,New,2024-03-21,36,Female,Delhi NCR,8
+C0527,Occasional,2023-12-30,40,Female,Hyderabad,30
+C0528,Occasional,2023-11-04,64,Male,Bangalore,18
+C0529,Frequent,2022-09-22,32,Male,Kolkata,71
+C0530,New,2024-05-15,44,Male,Delhi NCR,8
+C0531,Occasional,2023-02-11,28,Female,Pune,39
+C0532,Frequent,2023-02-20,40,Female,Hyderabad,79
+C0533,New,2024-06-13,25,Female,Bangalore,3
+C0534,Occasional,2023-12-10,38,Female,Pune,26
+C0535,New,2024-04-12,23,Female,Hyderabad,1
+C0536,New,2024-02-07,54,Female,Chennai,7
+C0537,Occasional,2023-06-26,53,Female,Chennai,20
+C0538,Frequent,2022-04-15,63,Female,Chennai,99
+C0539,New,2024-04-13,45,Male,Mumbai,8
+C0540,VIP,2022-09-01,21,Male,Bangalore,233
+C0541,New,2024-05-23,29,Male,Pune,8
+C0542,VIP,2022-06-21,20,Male,Hyderabad,153
+C0543,New,2024-03-13,57,Female,Bangalore,4
+C0544,New,2024-01-27,32,Male,Delhi NCR,1
+C0545,Frequent,2022-10-09,51,Female,Mumbai,86
+C0546,Frequent,2023-04-16,40,Male,Other,43
+C0547,New,2024-03-29,47,Female,Kolkata,2
+C0548,Occasional,2023-04-26,38,Female,Delhi NCR,31
+C0549,New,2024-05-22,32,Male,Kolkata,4
+C0550,Occasional,2023-03-11,60,Male,Pune,26
+C0551,New,2024-03-31,38,Female,Hyderabad,2
+C0552,Occasional,2023-07-11,57,Male,Delhi NCR,12
+C0553,VIP,2022-12-13,22,Male,Kolkata,180
+C0554,Occasional,2023-02-25,62,Female,Kolkata,36
+C0555,New,2024-01-02,57,Male,Hyderabad,1
+C0556,Frequent,2022-04-18,56,Male,Bangalore,115
+C0557,Frequent,2023-03-21,45,Female,Delhi NCR,93
+C0558,New,2024-06-10,48,Male,Chennai,7
+C0559,Occasional,2023-10-05,54,Female,Delhi NCR,17
+C0560,New,2024-06-18,32,Female,Hyderabad,5
+C0561,Frequent,2022-07-27,64,Male,Hyderabad,47
+C0562,New,2024-05-24,34,Male,Kolkata,6
+C0563,Frequent,2023-01-01,64,Male,Pune,53
+C0564,Frequent,2022-09-26,52,Male,Kolkata,70
+C0565,VIP,2022-02-11,43,Female,Mumbai,281
+C0566,Occasional,2023-07-17,35,Male,Delhi NCR,36
+C0567,Frequent,2022-01-13,61,Male,Bangalore,46
+C0568,Frequent,2023-02-23,36,Male,Bangalore,74
+C0569,Occasional,2023-02-13,41,Female,Delhi NCR,17
+C0570,Frequent,2022-02-19,52,Male,Kolkata,104
+C0571,Occasional,2023-05-08,54,Male,Pune,23
+C0572,New,2024-02-09,62,Male,Other,4
+C0573,Frequent,2022-10-14,25,Male,Bangalore,42
+C0574,New,2024-02-14,25,Male,Chennai,2
+C0575,VIP,2021-05-05,33,Male,Mumbai,176
+C0576,New,2024-04-23,46,Male,Mumbai,5
+C0577,Frequent,2022-06-22,22,Male,Other,62
+C0578,Frequent,2023-05-09,46,Female,Other,43
+C0579,Occasional,2023-09-28,49,Male,Mumbai,17
+C0580,Occasional,2023-04-22,20,Female,Bangalore,33
+C0581,VIP,2022-01-23,58,Male,Other,200
+C0582,Frequent,2023-03-30,39,Male,Hyderabad,74
+C0583,Frequent,2023-05-30,29,Female,Delhi NCR,48
+C0584,Occasional,2023-09-08,26,Male,Bangalore,18
+C0585,Frequent,2022-03-10,40,Male,Chennai,86
+C0586,New,2024-04-21,27,Female,Delhi NCR,9
+C0587,Frequent,2023-01-10,42,Female,Chennai,80
+C0588,New,2024-01-10,28,Male,Kolkata,3
+C0589,VIP,2022-05-18,19,Female,Mumbai,245
+C0590,VIP,2021-11-27,35,Female,Bangalore,135
+C0591,Occasional,2023-09-19,61,Male,Pune,34
+C0592,New,2024-03-16,56,Male,Mumbai,4
+C0593,New,2024-01-27,24,Male,Pune,8
+C0594,Occasional,2023-01-12,60,Female,Kolkata,22
+C0595,New,2024-02-05,25,Female,Other,5
+C0596,New,2024-04-27,47,Male,Hyderabad,5
+C0597,Frequent,2022-06-29,46,Male,Chennai,76
+C0598,Frequent,2023-03-12,30,Female,Other,58
+C0599,New,2024-02-24,46,Male,Hyderabad,4
+C0600,New,2024-05-09,49,Female,Kolkata,6
+C0601,Frequent,2022-01-30,36,Female,Kolkata,84
+C0602,New,2024-04-27,39,Male,Pune,4
+C0603,New,2024-05-26,23,Female,Pune,6
+C0604,Frequent,2022-01-09,21,Male,Kolkata,71
+C0605,New,2024-05-05,39,Female,Kolkata,5
+C0606,VIP,2022-08-12,26,Male,Pune,161
+C0607,New,2024-06-07,38,Female,Bangalore,3
+C0608,VIP,2021-10-15,27,Male,Chennai,185
+C0609,Frequent,2022-05-24,63,Male,Pune,55
+C0610,Frequent,2022-05-09,38,Female,Mumbai,50
+C0611,Occasional,2023-04-05,50,Male,Other,26
+C0612,New,2024-04-15,19,Female,Chennai,7
+C0613,New,2024-06-02,60,Female,Bangalore,8
+C0614,New,2024-01-27,19,Female,Mumbai,1
+C0615,Occasional,2023-01-30,55,Male,Other,29
+C0616,New,2024-02-11,50,Female,Delhi NCR,8
+C0617,Frequent,2022-10-30,33,Male,Delhi NCR,76
+C0618,Frequent,2022-12-29,58,Female,Other,66
+C0619,Occasional,2023-11-18,57,Male,Mumbai,21
+C0620,New,2024-04-05,51,Female,Pune,9
+C0621,Occasional,2023-11-17,53,Male,Bangalore,28
+C0622,Occasional,2023-02-26,19,Male,Chennai,23
+C0623,Occasional,2023-12-06,56,Male,Mumbai,38
+C0624,Occasional,2023-12-23,41,Male,Other,27
+C0625,Frequent,2022-05-30,53,Female,Hyderabad,109
+C0626,Occasional,2023-12-02,53,Female,Other,38
+C0627,Frequent,2022-06-13,35,Female,Pune,59
+C0628,New,2024-05-02,21,Male,Bangalore,5
+C0629,Occasional,2023-07-25,29,Male,Kolkata,15
+C0630,Frequent,2022-11-13,63,Male,Chennai,110
+C0631,VIP,2021-11-06,51,Male,Bangalore,163
+C0632,Occasional,2023-04-14,31,Male,Delhi NCR,36
+C0633,New,2024-04-08,45,Male,Hyderabad,1
+C0634,New,2024-02-01,30,Female,Bangalore,8
+C0635,Frequent,2022-11-22,48,Male,Kolkata,64
+C0636,VIP,2022-08-24,18,Male,Pune,191
+C0637,New,2024-06-15,41,Male,Hyderabad,6
+C0638,Frequent,2023-06-16,20,Female,Mumbai,85
+C0639,Occasional,2023-05-09,19,Female,Hyderabad,26
+C0640,Occasional,2023-04-22,50,Female,Bangalore,28
+C0641,Frequent,2022-12-30,37,Female,Delhi NCR,115
+C0642,Frequent,2022-08-31,55,Male,Bangalore,58
+C0643,New,2024-03-26,64,Female,Hyderabad,4
+C0644,New,2024-02-11,43,Male,Kolkata,3
+C0645,Occasional,2023-01-20,36,Female,Bangalore,33
+C0646,Occasional,2023-09-24,59,Female,Hyderabad,35
+C0647,Occasional,2023-10-02,63,Female,Delhi NCR,15
+C0648,Occasional,2023-03-06,57,Male,Chennai,12
+C0649,Frequent,2023-01-11,28,Female,Chennai,46
+C0650,New,2024-06-02,63,Male,Bangalore,6
+C0651,VIP,2021-02-15,41,Female,Kolkata,172
+C0652,Frequent,2022-04-28,21,Male,Delhi NCR,93
+C0653,Frequent,2023-06-07,58,Male,Pune,93
+C0654,New,2024-04-20,43,Female,Kolkata,9
+C0655,New,2024-06-12,47,Male,Bangalore,3
+C0656,Occasional,2023-04-03,32,Male,Delhi NCR,22
+C0657,Occasional,2023-04-16,64,Female,Hyderabad,36
+C0658,Occasional,2023-11-16,42,Female,Hyderabad,32
+C0659,New,2024-06-17,24,Male,Mumbai,9
+C0660,Occasional,2023-11-04,18,Male,Chennai,10
+C0661,New,2024-05-24,60,Female,Chennai,4
+C0662,Occasional,2023-06-27,52,Male,Other,18
+C0663,Frequent,2022-10-10,31,Male,Chennai,71
+C0664,New,2024-01-16,64,Female,Pune,3
+C0665,Occasional,2023-01-17,63,Female,Pune,16
+C0666,Occasional,2023-01-30,39,Male,Chennai,39
+C0667,VIP,2022-06-14,24,Female,Pune,209
+C0668,Frequent,2022-03-31,23,Female,Other,45
+C0669,Occasional,2023-04-11,48,Female,Hyderabad,27
+C0670,Frequent,2022-02-02,54,Female,Hyderabad,113
+C0671,New,2024-05-16,38,Male,Kolkata,6
+C0672,New,2024-04-26,56,Male,Hyderabad,2
+C0673,New,2024-05-14,61,Female,Mumbai,2
+C0674,Occasional,2023-04-05,28,Female,Mumbai,35
+C0675,New,2024-04-07,39,Male,Pune,8
+C0676,Occasional,2023-01-25,38,Male,Other,32
+C0677,Frequent,2023-02-16,26,Male,Hyderabad,90
+C0678,New,2024-02-11,49,Female,Bangalore,5
+C0679,Frequent,2022-05-03,36,Female,Kolkata,42
+C0680,Occasional,2023-01-06,64,Female,Kolkata,21
+C0681,Occasional,2023-01-08,37,Male,Bangalore,32
+C0682,New,2024-02-14,40,Male,Bangalore,8
+C0683,Frequent,2022-11-30,24,Male,Hyderabad,116
+C0684,Frequent,2023-02-12,18,Male,Other,83
+C0685,Frequent,2023-01-04,29,Female,Chennai,89
+C0686,New,2024-04-21,53,Male,Bangalore,9
+C0687,Frequent,2023-03-03,35,Female,Bangalore,64
+C0688,Occasional,2023-05-26,45,Female,Bangalore,36
+C0689,Frequent,2022-05-17,63,Female,Other,107
+C0690,VIP,2022-06-02,56,Male,Kolkata,143
+C0691,New,2024-05-27,35,Female,Mumbai,6
+C0692,Occasional,2023-10-28,64,Female,Pune,27
+C0693,Occasional,2023-04-21,28,Female,Pune,34
+C0694,New,2024-01-14,62,Male,Delhi NCR,6
+C0695,Occasional,2023-08-02,36,Male,Pune,32
+C0696,New,2024-02-02,45,Female,Kolkata,3
+C0697,New,2024-02-06,51,Female,Other,3
+C0698,Occasional,2023-11-29,40,Female,Hyderabad,39
+C0699,New,2024-06-11,61,Female,Hyderabad,8
+C0700,Frequent,2022-03-26,58,Male,Pune,64
+C0701,New,2024-03-27,49,Male,Bangalore,7
+C0702,New,2024-05-28,56,Female,Kolkata,9
+C0703,New,2024-03-28,64,Male,Mumbai,3
+C0704,Occasional,2023-12-06,23,Male,Kolkata,36
+C0705,Occasional,2023-10-14,43,Male,Kolkata,30
+C0706,Occasional,2023-12-09,54,Female,Chennai,29
+C0707,Occasional,2023-01-25,58,Male,Delhi NCR,35
+C0708,New,2024-05-13,57,Male,Kolkata,2
+C0709,Occasional,2023-06-01,35,Female,Chennai,28
+C0710,Occasional,2023-08-25,18,Male,Kolkata,12
+C0711,Occasional,2023-05-06,51,Female,Mumbai,20
+C0712,Occasional,2023-07-30,33,Male,Delhi NCR,34
+C0713,Occasional,2023-12-02,57,Male,Mumbai,21
+C0714,Occasional,2023-02-14,38,Male,Other,15
+C0715,Frequent,2023-05-06,48,Male,Hyderabad,78
+C0716,Frequent,2022-10-01,41,Male,Delhi NCR,99
+C0717,Occasional,2023-01-04,26,Male,Mumbai,17
+C0718,VIP,2021-09-29,52,Female,Kolkata,262
+C0719,Occasional,2023-10-03,35,Female,Kolkata,24
+C0720,VIP,2022-09-13,48,Male,Bangalore,193
+C0721,New,2024-04-19,47,Male,Bangalore,9
+C0722,VIP,2021-10-25,53,Male,Chennai,260
+C0723,Occasional,2023-03-14,24,Male,Other,29
+C0724,VIP,2022-09-07,56,Male,Kolkata,159
+C0725,New,2024-06-27,48,Female,Mumbai,5
+C0726,New,2024-05-09,30,Male,Chennai,9
+C0727,New,2024-03-10,52,Male,Hyderabad,3
+C0728,New,2024-03-09,39,Male,Bangalore,3
+C0729,Occasional,2023-11-14,41,Female,Pune,25
+C0730,Frequent,2023-07-01,31,Male,Hyderabad,94
+C0731,Occasional,2023-01-30,42,Female,Hyderabad,28
+C0732,New,2024-03-12,45,Female,Bangalore,2
+C0733,Frequent,2022-06-22,24,Female,Mumbai,116
+C0734,New,2024-01-06,35,Female,Kolkata,8
+C0735,New,2024-03-21,28,Male,Bangalore,8
+C0736,New,2024-01-28,28,Female,Hyderabad,3
+C0737,Occasional,2023-06-25,56,Female,Other,30
+C0738,Frequent,2022-04-22,24,Male,Delhi NCR,98
+C0739,Occasional,2023-07-19,21,Female,Bangalore,33
+C0740,New,2024-04-13,44,Female,Other,7
+C0741,Frequent,2022-06-21,28,Female,Delhi NCR,80
+C0742,New,2024-06-13,34,Male,Kolkata,9
+C0743,VIP,2021-01-03,64,Male,Chennai,235
+C0744,Occasional,2023-09-10,48,Male,Chennai,38
+C0745,Frequent,2022-02-19,32,Male,Bangalore,117
+C0746,Frequent,2022-09-04,32,Male,Pune,47
+C0747,Frequent,2023-05-03,49,Female,Chennai,100
+C0748,Occasional,2023-01-01,32,Male,Delhi NCR,11
+C0749,New,2024-03-22,24,Female,Pune,6
+C0750,New,2024-06-01,31,Female,Hyderabad,6
+C0751,Occasional,2023-12-23,42,Female,Kolkata,23
+C0752,Occasional,2023-09-02,52,Female,Mumbai,31
+C0753,Occasional,2023-04-23,34,Male,Pune,20
+C0754,Frequent,2023-04-27,34,Female,Kolkata,45
+C0755,New,2024-01-16,58,Female,Delhi NCR,3
+C0756,Occasional,2023-07-04,26,Female,Hyderabad,11
+C0757,Frequent,2022-10-05,46,Male,Hyderabad,73
+C0758,Frequent,2022-11-23,50,Female,Chennai,104
+C0759,Occasional,2023-03-23,60,Female,Delhi NCR,36
+C0760,Frequent,2022-04-15,53,Female,Hyderabad,94
+C0761,New,2024-03-27,59,Male,Delhi NCR,2
+C0762,Occasional,2023-01-18,30,Female,Bangalore,31
+C0763,Frequent,2023-03-02,35,Female,Bangalore,118
+C0764,New,2024-04-07,20,Female,Mumbai,4
+C0765,VIP,2021-10-23,39,Female,Chennai,189
+C0766,VIP,2021-02-21,60,Male,Mumbai,233
+C0767,New,2024-06-23,23,Male,Other,3
+C0768,New,2024-03-12,41,Male,Pune,1
+C0769,New,2024-03-03,52,Male,Kolkata,9
+C0770,Frequent,2022-07-31,58,Male,Delhi NCR,68
+C0771,VIP,2021-04-22,34,Male,Pune,265
+C0772,New,2024-04-19,39,Female,Pune,8
+C0773,New,2024-06-20,52,Female,Delhi NCR,2
+C0774,Frequent,2023-04-22,54,Male,Delhi NCR,109
+C0775,New,2024-01-16,57,Male,Chennai,6
+C0776,Frequent,2022-06-20,40,Female,Kolkata,56
+C0777,New,2024-03-19,63,Female,Hyderabad,2
+C0778,Occasional,2023-11-23,19,Male,Kolkata,28
+C0779,Occasional,2023-05-20,39,Female,Chennai,15
+C0780,Frequent,2023-05-16,23,Female,Hyderabad,97
+C0781,Occasional,2023-10-06,43,Male,Pune,32
+C0782,VIP,2021-04-07,62,Female,Bangalore,155
+C0783,VIP,2021-05-10,50,Male,Hyderabad,174
+C0784,Occasional,2023-11-30,43,Female,Bangalore,38
+C0785,New,2024-02-03,58,Male,Pune,1
+C0786,Frequent,2022-02-01,35,Female,Delhi NCR,70
+C0787,New,2024-01-14,49,Female,Mumbai,4
+C0788,New,2024-06-06,38,Male,Delhi NCR,4
+C0789,Occasional,2023-04-25,59,Female,Chennai,24
+C0790,Occasional,2023-02-10,44,Female,Other,24
+C0791,Occasional,2023-05-10,24,Male,Delhi NCR,13
+C0792,Frequent,2023-05-27,43,Male,Mumbai,102
+C0793,Frequent,2022-06-25,55,Male,Other,82
+C0794,New,2024-04-29,34,Male,Delhi NCR,1
+C0795,New,2024-04-30,26,Male,Delhi NCR,8
+C0796,New,2024-04-21,28,Male,Mumbai,8
+C0797,Frequent,2022-06-01,62,Female,Mumbai,113
+C0798,New,2024-04-10,34,Male,Delhi NCR,2
+C0799,New,2024-05-11,37,Female,Pune,2
+C0800,Frequent,2022-09-22,32,Male,Chennai,116
+C0801,New,2024-01-19,43,Male,Mumbai,4
+C0802,New,2024-06-25,49,Male,Mumbai,2
+C0803,VIP,2021-09-30,29,Female,Pune,280
+C0804,Frequent,2022-02-18,43,Male,Chennai,94
+C0805,Frequent,2022-02-15,53,Female,Kolkata,85
+C0806,Frequent,2022-05-09,42,Male,Other,88
+C0807,Occasional,2023-07-19,56,Male,Other,38
+C0808,Occasional,2023-03-12,31,Male,Mumbai,18
+C0809,Occasional,2023-06-10,62,Male,Bangalore,35
+C0810,VIP,2022-04-04,31,Female,Delhi NCR,121
+C0811,Frequent,2022-10-09,45,Male,Other,60
+C0812,New,2024-03-27,34,Female,Chennai,7
+C0813,Frequent,2022-10-03,63,Female,Chennai,98
+C0814,Frequent,2023-05-27,33,Male,Chennai,117
+C0815,Occasional,2023-05-14,53,Male,Chennai,22
+C0816,Frequent,2022-09-03,57,Male,Other,90
+C0817,Occasional,2023-03-25,60,Male,Pune,36
+C0818,Frequent,2023-06-07,20,Male,Pune,54
+C0819,Frequent,2022-01-09,20,Male,Delhi NCR,54
+C0820,Occasional,2023-11-24,28,Female,Mumbai,30
+C0821,Frequent,2023-07-01,31,Female,Hyderabad,53
+C0822,Occasional,2023-08-26,58,Female,Delhi NCR,11
+C0823,New,2024-04-24,29,Male,Mumbai,1
+C0824,New,2024-04-15,39,Female,Mumbai,5
+C0825,Frequent,2022-01-12,51,Male,Kolkata,113
+C0826,Frequent,2023-03-23,29,Male,Other,96
+C0827,New,2024-05-03,53,Male,Chennai,5
+C0828,New,2024-02-05,38,Female,Chennai,6
+C0829,New,2024-06-15,41,Male,Delhi NCR,4
+C0830,New,2024-06-14,61,Male,Mumbai,6
+C0831,VIP,2022-01-13,34,Female,Hyderabad,253
+C0832,Occasional,2023-09-23,25,Male,Hyderabad,33
+C0833,Occasional,2023-02-08,50,Male,Other,33
+C0834,Frequent,2022-12-18,59,Male,Hyderabad,115
+C0835,Frequent,2023-06-28,42,Male,Mumbai,65
+C0836,Occasional,2023-08-20,40,Male,Other,39
+C0837,Occasional,2023-10-16,19,Male,Delhi NCR,30
+C0838,Occasional,2023-03-25,35,Male,Other,12
+C0839,Occasional,2023-01-30,27,Male,Delhi NCR,21
+C0840,VIP,2021-07-05,50,Female,Other,283
+C0841,Occasional,2023-02-11,35,Male,Bangalore,28
+C0842,New,2024-02-23,29,Female,Kolkata,1
+C0843,New,2024-01-18,22,Male,Hyderabad,9
+C0844,New,2024-01-29,43,Male,Mumbai,3
+C0845,Occasional,2023-03-17,28,Female,Mumbai,11
+C0846,Occasional,2023-09-15,24,Female,Other,14
+C0847,New,2024-05-30,26,Male,Kolkata,8
+C0848,Occasional,2023-11-26,30,Male,Hyderabad,29
+C0849,New,2024-04-15,24,Female,Other,8
+C0850,New,2024-05-22,38,Male,Chennai,4
+C0851,New,2024-01-26,40,Male,Other,5
+C0852,New,2024-06-16,33,Male,Pune,7
+C0853,Occasional,2023-12-02,59,Male,Chennai,30
+C0854,Occasional,2023-09-13,50,Male,Chennai,25
+C0855,Occasional,2023-09-01,45,Female,Kolkata,31
+C0856,VIP,2021-08-14,56,Female,Other,196
+C0857,Frequent,2022-03-16,55,Male,Delhi NCR,81
+C0858,New,2024-04-14,54,Female,Mumbai,8
+C0859,New,2024-05-22,32,Male,Bangalore,6
+C0860,New,2024-01-10,21,Female,Other,6
+C0861,Frequent,2022-10-08,51,Female,Bangalore,115
+C0862,Occasional,2023-11-05,60,Female,Pune,27
+C0863,Frequent,2022-08-14,21,Male,Pune,117
+C0864,Occasional,2023-07-26,59,Female,Chennai,37
+C0865,New,2024-01-01,49,Male,Other,7
+C0866,VIP,2022-11-17,56,Male,Hyderabad,289
+C0867,Frequent,2022-05-30,26,Female,Pune,43
+C0868,New,2024-05-05,60,Male,Other,8
+C0869,Occasional,2023-03-21,64,Female,Bangalore,34
+C0870,Occasional,2023-07-14,39,Female,Mumbai,31
+C0871,Occasional,2023-11-01,38,Male,Pune,21
+C0872,Frequent,2022-09-03,37,Male,Chennai,92
+C0873,New,2024-05-28,54,Female,Hyderabad,1
+C0874,Occasional,2023-07-25,53,Male,Chennai,39
+C0875,VIP,2021-10-27,61,Male,Bangalore,126
+C0876,VIP,2021-11-21,27,Male,Delhi NCR,174
+C0877,New,2024-05-01,44,Female,Bangalore,6
+C0878,Occasional,2023-07-12,56,Female,Hyderabad,37
+C0879,New,2024-01-09,22,Male,Hyderabad,1
+C0880,Occasional,2023-10-23,60,Male,Chennai,15
+C0881,Occasional,2023-05-21,50,Female,Bangalore,23
+C0882,Occasional,2023-04-18,48,Female,Delhi NCR,19
+C0883,Frequent,2022-08-07,45,Female,Other,60
+C0884,VIP,2022-01-07,55,Male,Chennai,267
+C0885,New,2024-01-21,64,Male,Kolkata,2
+C0886,Frequent,2022-07-12,59,Female,Delhi NCR,42
+C0887,Occasional,2023-06-02,55,Male,Chennai,22
+C0888,New,2024-04-18,38,Male,Other,2
+C0889,VIP,2022-01-06,30,Male,Delhi NCR,236
+C0890,New,2024-03-06,36,Female,Hyderabad,3
+C0891,New,2024-02-11,26,Male,Pune,4
+C0892,Occasional,2023-03-03,36,Female,Pune,13
+C0893,Frequent,2022-03-22,53,Male,Chennai,78
+C0894,VIP,2022-12-10,29,Female,Kolkata,277
+C0895,New,2024-02-20,31,Male,Mumbai,8
+C0896,VIP,2021-07-29,47,Female,Bangalore,136
+C0897,New,2024-05-08,32,Male,Chennai,9
+C0898,Frequent,2022-07-30,37,Male,Delhi NCR,115
+C0899,Frequent,2023-06-06,49,Female,Chennai,86
+C0900,Occasional,2023-01-27,35,Female,Delhi NCR,37
+C0901,Occasional,2023-03-13,48,Female,Pune,31
+C0902,Occasional,2023-02-07,26,Female,Hyderabad,36
+C0903,New,2024-06-27,35,Male,Chennai,3
+C0904,Frequent,2022-06-16,42,Female,Mumbai,103
+C0905,Occasional,2023-05-30,37,Male,Pune,32
+C0906,New,2024-03-28,18,Female,Pune,9
+C0907,Occasional,2023-05-13,59,Male,Chennai,21
+C0908,Occasional,2023-03-15,47,Female,Delhi NCR,24
+C0909,New,2024-03-02,48,Female,Bangalore,9
+C0910,New,2024-04-28,23,Male,Kolkata,2
+C0911,Frequent,2023-02-22,32,Male,Mumbai,83
+C0912,Occasional,2023-01-03,39,Female,Bangalore,31
+C0913,New,2024-04-02,24,Male,Mumbai,1
+C0914,New,2024-03-28,23,Female,Other,1
+C0915,Frequent,2022-10-04,55,Female,Bangalore,63
+C0916,Occasional,2023-11-20,54,Male,Hyderabad,34
+C0917,Occasional,2023-02-25,42,Female,Chennai,21
+C0918,Frequent,2022-05-21,23,Female,Other,66
+C0919,New,2024-03-21,19,Male,Chennai,9
+C0920,New,2024-04-01,64,Male,Bangalore,6
+C0921,New,2024-05-19,22,Female,Pune,8
+C0922,New,2024-02-26,62,Female,Other,5
+C0923,Occasional,2023-02-26,33,Female,Bangalore,17
+C0924,Occasional,2023-01-05,28,Female,Kolkata,35
+C0925,Occasional,2023-12-28,51,Male,Pune,29
+C0926,New,2024-03-11,23,Male,Other,2
+C0927,Frequent,2023-04-09,29,Male,Delhi NCR,64
+C0928,Occasional,2023-11-22,40,Male,Hyderabad,38
+C0929,New,2024-03-24,32,Female,Kolkata,9
+C0930,Occasional,2023-02-18,50,Male,Pune,29
+C0931,New,2024-01-18,54,Male,Pune,6
+C0932,New,2024-03-19,40,Male,Hyderabad,2
+C0933,Occasional,2023-04-08,19,Male,Delhi NCR,37
+C0934,New,2024-03-09,45,Female,Kolkata,7
+C0935,Frequent,2022-07-08,62,Male,Other,97
+C0936,Occasional,2023-02-16,55,Male,Chennai,30
+C0937,Occasional,2023-08-12,48,Female,Other,35
+C0938,New,2024-05-04,56,Female,Bangalore,3
+C0939,Frequent,2022-01-29,50,Female,Bangalore,50
+C0940,Frequent,2022-01-21,48,Male,Mumbai,78
+C0941,New,2024-04-20,18,Male,Bangalore,2
+C0942,Frequent,2022-10-08,55,Female,Pune,82
+C0943,Occasional,2023-07-29,61,Female,Mumbai,39
+C0944,New,2024-01-02,55,Female,Mumbai,2
+C0945,New,2024-06-12,38,Male,Hyderabad,6
+C0946,VIP,2022-01-22,63,Female,Kolkata,252
+C0947,Frequent,2022-08-18,25,Male,Pune,65
+C0948,Frequent,2022-09-14,54,Male,Pune,55
+C0949,Frequent,2022-07-27,60,Male,Hyderabad,94
+C0950,Frequent,2022-03-31,55,Female,Bangalore,97
+C0951,Occasional,2023-04-07,24,Male,Kolkata,30
+C0952,New,2024-03-25,37,Male,Hyderabad,8
+C0953,Occasional,2023-09-06,26,Male,Mumbai,38
+C0954,Frequent,2023-05-17,53,Male,Hyderabad,119
+C0955,Occasional,2023-11-23,58,Female,Other,32
+C0956,Occasional,2023-06-15,50,Male,Delhi NCR,23
+C0957,Occasional,2023-08-04,43,Male,Delhi NCR,22
+C0958,Occasional,2023-08-08,40,Female,Mumbai,17
+C0959,New,2024-06-12,44,Female,Mumbai,9
+C0960,Frequent,2022-05-09,59,Male,Hyderabad,113
+C0961,New,2024-01-06,19,Male,Mumbai,6
+C0962,Frequent,2022-07-23,54,Male,Other,61
+C0963,New,2024-03-05,34,Male,Kolkata,1
+C0964,New,2024-04-14,63,Female,Other,3
+C0965,New,2024-02-14,41,Male,Bangalore,1
+C0966,VIP,2022-04-29,34,Male,Pune,135
+C0967,New,2024-01-11,32,Male,Chennai,1
+C0968,Occasional,2023-03-16,51,Male,Mumbai,27
+C0969,New,2024-02-28,20,Male,Delhi NCR,7
+C0970,Frequent,2022-06-25,19,Female,Pune,118
+C0971,New,2024-01-20,53,Male,Kolkata,2
+C0972,New,2024-02-25,47,Male,Delhi NCR,3
+C0973,Occasional,2023-03-21,36,Female,Other,35
+C0974,Occasional,2023-08-04,62,Male,Kolkata,20
+C0975,Occasional,2023-03-09,35,Male,Delhi NCR,13
+C0976,Occasional,2023-03-07,53,Female,Pune,30
+C0977,New,2024-01-29,43,Male,Other,6
+C0978,Occasional,2023-08-31,48,Female,Kolkata,18
+C0979,New,2024-06-24,52,Male,Mumbai,1
+C0980,New,2024-01-02,58,Female,Kolkata,3
+C0981,Frequent,2023-01-23,46,Male,Pune,51
+C0982,New,2024-05-12,59,Male,Bangalore,1
+C0983,New,2024-02-14,50,Male,Mumbai,9
+C0984,New,2024-01-29,31,Male,Hyderabad,2
+C0985,Frequent,2022-06-06,46,Male,Mumbai,118
+C0986,New,2024-06-20,33,Female,Bangalore,7
+C0987,Occasional,2023-03-03,55,Male,Mumbai,19
+C0988,VIP,2022-06-16,42,Female,Kolkata,177
+C0989,New,2024-04-06,54,Male,Mumbai,4
+C0990,Frequent,2023-01-09,48,Male,Mumbai,108
+C0991,New,2024-05-05,47,Male,Kolkata,3
+C0992,Frequent,2022-09-10,26,Male,Hyderabad,69
+C0993,Occasional,2023-03-09,30,Female,Bangalore,34
+C0994,Frequent,2023-01-28,58,Female,Pune,41
+C0995,Occasional,2023-05-10,30,Female,Mumbai,27
+C0996,New,2024-03-14,60,Male,Mumbai,8
+C0997,Occasional,2023-03-12,20,Female,Mumbai,15
+C0998,Occasional,2023-02-22,60,Male,Delhi NCR,15
+C0999,Frequent,2023-04-29,28,Female,Mumbai,105
+C1000,New,2024-04-09,63,Female,Kolkata,8
